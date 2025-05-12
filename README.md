@@ -18,6 +18,7 @@
 ## 联系方式
 
 如有问题可通过该仓库提交Issues
+https://github.com/JunJie-GitHub/blink-support
 
 ---
 
