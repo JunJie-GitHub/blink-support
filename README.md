@@ -5,20 +5,32 @@
 
 ---
 
+## 隐私政策
+
+眨一眨 App 不收集、不传输任何用户数据，所有设置仅存储在用户本地设备中。
+
+本应用不会访问您的联系人、位置、照片、摄像头或任何隐私数据。
+
+如有任何关于隐私的问题，请联系开发者：
+smilejie2020@foxmail.com
+
+---
+
 ## 常见问题
 
 **1. 如何更改提醒时间？**  
 点击菜单栏图标 → 打开控制面板 → 调整“倒计时”数值 → 点击保存设置
 
 **2. 声音没响怎么办？**  
-请确保 macOS 音量开启，系统通知未被禁用
+请确保 macOS 音量开启，系统通知未被禁用  
+
+如有问题可通过该仓库提交Issues  
+https://github.com/JunJie-GitHub/blink-support
 
 ---
 
 ## 联系方式
-
-如有问题可通过该仓库提交Issues  
-https://github.com/JunJie-GitHub/blink-support
+smilejie2020@foxmail.com
 
 ---
 
